@@ -1,7 +1,6 @@
 GIT
-  remote: git://github.com/CloCkWeRX/atdisplanningalertsfeed.git
-  revision: 054f971ab3a690a1051ec1a48abfe746069a91f9
-  branch: avoid_loops
+  remote: git://github.com/planningalerts-scrapers/atdisplanningalertsfeed.git
+  revision: 7acbbe22df7105a0d50ae33500fcc6b03e1343d0
   specs:
     atdisplanningalertsfeed (0.0.1)
       atdis
@@ -41,7 +40,7 @@ GEM
       mime-types (>= 1.16, < 3.0)
       netrc (~> 0.7)
     rgeo (0.5.3)
-    rgeo-geojson (0.4.2)
+    rgeo-geojson (0.4.3)
       rgeo (~> 0.5)
     scraperwiki (3.0.2)
       httpclient
